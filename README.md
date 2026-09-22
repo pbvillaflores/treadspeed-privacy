@@ -2,14 +2,14 @@
 
 **Effective date: 20 September 2026**
 
-TreadSpeed is an Android application published by Patrick Villaflores
+TreadSpeed is an Android application published by Paolo Villaflores
 ("the developer"). This policy explains what information the app handles —
 in short: **none leaves your device**.
 
 ## What the app does
 
 TreadSpeed turns your Android phone into a Bluetooth Low Energy (BLE)
-"foot pod" sensor. It broadcasts a treadmill speed you choose, plus
+"foot pod"/speed sensor. It broadcasts a treadmill speed you choose, plus
 optionally a cadence value, so that a paired Garmin watch (or another BLE
 receiver) can use it as a pace source during indoor runs.
 
